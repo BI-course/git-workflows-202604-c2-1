@@ -1,4 +1,4 @@
-# Collaborative Git Workflows: Part 1
+git # Collaborative Git Workflows: Part 1
 
 This lab is designed for a team of five members to practice **GitHub Flow** while understanding alternative Git workflows. You will focus on **team governance**, **branch protection**, and **explicit merging** without fast-forwarding to maintain a clear audit trail.
 
@@ -33,7 +33,7 @@ Before starting, review these three primary workflows used in the industry:
 
 ---
 
-## 3. Create a Project (Member 1)
+## 3. Create a Project (Member 2)
 
 1. Go to the **Projects** tab in the repository and click on **New Project**.
 2. Select the **Iterative development** template and name it "**2026 Business Intelligence Labs**".
@@ -42,7 +42,7 @@ Before starting, review these three primary workflows used in the industry:
 
 ---
 
-## 4. Create Milestones (Member 1)
+## 4. Create Milestones (Member 3)
 
 1. Go to the **Issues** tab and click on **Milestones**.
 2. Create 3 milestones and:
