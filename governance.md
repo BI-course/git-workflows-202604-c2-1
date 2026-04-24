@@ -26,5 +26,6 @@ To protect sensitive data while still allowing for meaningful business analysis,
 | **Anonymization** | The process of removing PII from a dataset so that the remaining data cannot be linked back to an individual. |
 | **Encryption** | Ensuring data is unreadable to unauthorized users both "at rest" (stored in the database) and "in transit" (moving across the network). |
 
+
 ## 5. Audit and Compliance
 Data governance requires a clear audit trail. Every access request, data modification, and report generation involving PII must be logged. This ensures accountability and provides the necessary documentation for industrial assessors or regulatory bodies during an audit.
