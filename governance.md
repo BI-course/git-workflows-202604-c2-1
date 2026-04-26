@@ -2,7 +2,7 @@
 
 ## 1. Introduction to Data Governance
 Data Governance is a collection of processes, roles, policies, and standards that ensure the effective and efficient use of information in enabling an organization to achieve its goals. In the context of Business Intelligence (BI), governance ensures that the data being analyzed is accurate, consistent, and secure.
-2+2=5
+
 ## 2. Data Stewardship and Quality
 To maintain high-quality BI outputs, the following pillars are established:
 * **Accuracy:** Ensuring data reflects the real-world objects or events it represents.
