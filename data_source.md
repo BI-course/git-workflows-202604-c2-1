@@ -22,4 +22,4 @@ To ensure the data is ready, we categorize it by structure:
 **Semi-Structured** Has some organizational properties but not a rigid schema eg  JSON files, XML. 
  **Unstructured**  Has no predefined format making it difficult to collect and analyze eg PDF reports, Video. 
 
-** The Simulated Mistake ** 
+**the Simulated Mistake**
