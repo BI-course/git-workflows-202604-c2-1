@@ -27,4 +27,4 @@ Member 5: Nicole Mokua- Research on data governance
 Member 6: Benvictor Mwangi- Research on data governance.
  Above is each member with their roles ascertained.
  
- Member 5 responsible for audit and governance.
+ Member 5 responsible for audit and governance. x2
