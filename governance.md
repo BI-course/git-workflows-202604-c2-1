@@ -14,6 +14,9 @@ PII refers to any information that can be used to distinguish or trace an indivi
 
 ### Examples of PII in BI Systems:
 * **Direct Identifiers:** Full names, National ID numbers, Passport numbers, and Phone numbers.
+<<<<<<< HEAD
+* **Indirect Identifiers:** Home addresses, IP addresses, and biometric data.
+=======
 * **Indirect Identifiers:** Home addresses, IP addresses, and biometric data.
 
 ## 4. Access Control and Security Protocols
@@ -26,6 +29,6 @@ To protect sensitive data while still allowing for meaningful business analysis,
 | **Anonymization** | The process of removing PII from a dataset so that the remaining data cannot be linked back to an individual. |
 | **Encryption** | Ensuring data is unreadable to unauthorized users both "at rest" (stored in the database) and "in transit" (moving across the network). |
 
-
 ## 5. Audit and Compliance
 Data governance requires a clear audit trail. Every access request, data modification, and report generation involving PII must be logged. This ensures accountability and provides the necessary documentation for industrial assessors or regulatory bodies during an audit.
+>>>>>>> 5a472c560859856f0bf522368c8d623f0b5f848c
