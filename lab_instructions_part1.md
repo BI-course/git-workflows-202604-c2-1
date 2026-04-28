@@ -276,6 +276,7 @@ Member 5 must decide what the final file should say. In this case, both attribut
 
 ```text
 Project lead: Member 4 (coordination) and Member 5 (governance and audit).
+
 ```
 
 Delete all three conflict markers (<<<<<<<, =======, >>>>>>>) and save the file.
