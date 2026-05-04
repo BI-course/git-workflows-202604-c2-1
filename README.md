@@ -26,4 +26,3 @@ Member 3: Juliet Mumbi- Reseach on star schema
 Member 4: Faith Njunge- Research on ETL-ELT-EtLT
 Member 5: Nicole Mokua- Research on data governance
 Member 6: Benvictor Mwangi- Research on data governance.
- Above is each member with their roles ascertained.
